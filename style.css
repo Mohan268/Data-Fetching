@@ -1,0 +1,38 @@
+body {
+	font-family: Arial, sans-serif;
+}
+
+h1 {
+	text-align: center;
+}
+
+#fetch-data-btn{
+    padding : 8px 10px;
+    margin-left : 43%;
+    font-weight : 600;
+    font-size : 14px;
+    background-color : rgb(209, 200, 200);
+    border : transparent;
+    border-radius : 4px;
+}
+#fetch-data-btn:hover{
+    color : white;
+    background-color: black;
+}
+table {
+	margin: 30px auto;
+	border-collapse: collapse;
+}
+
+table th, table td {
+	padding: 10px;
+	border: 1px solid #ccc;
+}
+
+table th {
+	background-color: #eee;
+}
+
+table td {
+	text-align: center;
+}
